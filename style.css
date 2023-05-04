@@ -1,0 +1,12 @@
+table, th, td {
+    border:1px solid black;
+  }
+
+  img{
+    border-color: black;
+    border: solid;
+  }
+
+  body{
+    background-color: rgb(203, 224, 247);
+  }
